@@ -1,0 +1,10 @@
+pca10028/
+arm4/
+armgcc/
+iar/
+_build/
+RTE/
+*.o
+*.bak
+*.hex
+*.dell
